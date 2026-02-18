@@ -2,8 +2,10 @@
 此项目通过其它直播源抓取集成一个总直播源，直播内容通过demo自定义进行运行爬取。每天自动更新直播，提供在线地址，可以直接使用各大播放平台。M3U配置peg和台标，支持IPV6/4双栈访问!
 > 声明: 所有播放源均收集于互联网，仅供测试研究学习，`不得商用!`
 ## 直播源调用地址
-[仓库文件](https://raw.githubusercontent.com/abc167661/IPTV/main/live.m3u)
+仓库文件[方法一](https://raw.githubusercontent.com/abc167661/IPTV/main/live.m3u)
+仓库文件[方法二](https://raw.githubusercontent.com/abc167661/IPTV/main/live.txt)
 ![image](/image/Screenshot_2024-07-24-21-20-39-458_com.github.tvbox.osc.tk.jpg)
+[video](https://youtu.be/HMjiSJHXD8Y?si=yb8FuoG9mR2aLoQW)
 
 ## IPV6优势
 1. 更低的延迟: IPv6协议在一些方面能提供更低的延迟，这对于实时视频流的播放体验很重要，可以减少视频缓冲和加载时间。
