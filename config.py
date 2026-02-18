@@ -5,8 +5,6 @@ source_urls = [
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt",
-    "http://ww.weidonglong.com/dsj.txt",
-    "http://xhztv.top/zbc.txt",
     "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
     "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
     "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
