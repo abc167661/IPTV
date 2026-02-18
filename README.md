@@ -4,7 +4,6 @@
 ## 直播源调用地址
 [仓库文件](https://raw.githubusercontent.com/abc167661/IPTV/main/live.m3u)
 ![image](/image/Screenshot_2024-07-24-21-20-39-458_com.github.tvbox.osc.tk.jpg)
-[video](https://youtu.be/HMjiSJHXD8Y?si=yb8FuoG9mR2aLoQW)
 
 ## IPV6优势
 1. 更低的延迟: IPv6协议在一些方面能提供更低的延迟，这对于实时视频流的播放体验很重要，可以减少视频缓冲和加载时间。
